@@ -87,9 +87,9 @@ Special thanks to **Satish Dhawale** for guidance and mentorship throughout this
 ## Screenshots
 Here are some screenshots of the dashboard:
 
-![Dashboard Screenshot](https://github.com/yourusername/yourrepository/blob/main/dashboard.png?raw=true)
-![MTD Report Screenshot](https://github.com/yourusername/yourrepository/blob/main/mtd_report.png?raw=true)
-![Same Period Last Year Screenshot](https://github.com/yourusername/yourrepository/blob/main/same_period_last_year.png?raw=true)
+![Dashboard Screenshot]([https://github.com/yourusername/yourrepository/blob/main/dashboard.png?raw=true](https://github.com/ashraf899/Mobile-Sales-Report/blob/main/Dashboard%20Page.png))
+![MTD Report Screenshot]([https://github.com/yourusername/yourrepository/blob/main/mtd_report.png?raw=true](https://github.com/ashraf899/Mobile-Sales-Report/blob/main/MTD%20Report%20Page.png))
+![Same Period Last Year Screenshot]([https://github.com/yourusername/yourrepository/blob/main/same_period_last_year.png?raw=true](https://github.com/ashraf899/Mobile-Sales-Report/blob/main/Same%20Period%20Last%20Year%20Page.png))
 
 ## Usage
 1. Open the `.pbix` file in Power BI Desktop.
